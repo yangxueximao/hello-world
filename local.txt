@@ -1,0 +1,1 @@
+Python作业:遇到一个困难，通过GitHub desktop 将本地仓库新增的文本文件提交为一个commit，不知道怎么操作啦
